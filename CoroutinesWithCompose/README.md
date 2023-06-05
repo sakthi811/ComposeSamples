@@ -18,3 +18,6 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+![Screenshot_20230605_115235](https://github.com/sakthi811/ComposeSamples/assets/8543699/0087203b-8f30-4978-9ec2-e01e8071af12)
+
